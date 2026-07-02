@@ -5,6 +5,7 @@ This project performs sentiment classification on tweets using machine learning.
 
 ## Dataset
 Tweets Sentiment Dataset (Kaggle)
+https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset?utm_source=chatgpt.com
 
 ## Data Preprocessing
 - Removed missing values
